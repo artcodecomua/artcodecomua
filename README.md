@@ -7,6 +7,8 @@ https://artcodecomua.github.io
 
 Onepage - начальный шаблон сайта одностраничника ...
 
+https://artcodecomua.github.io/onepage
+
 https://artcodecomua.github.io/minipage
 
 https://artcodecomua.github.io/multilink
