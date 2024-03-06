@@ -9,8 +9,6 @@ Onepage - начальный шаблон сайта одностранични�
 
 https://artcodecomua.github.io/onepage
 
-https://artcodecomua.github.io/minipage
-
 https://artcodecomua.github.io/multilink
 
 <!--
