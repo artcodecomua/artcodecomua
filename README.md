@@ -5,11 +5,7 @@ https://artcode.com.ua
 
 https://artcodecomua.github.io
 
-Onepage - начальный шаблон сайта одностраничника ...
-
-https://artcodecomua.github.io/onepage
-
-https://artcodecomua.github.io/multilink
+Onepage - начальные шаблоны сайта одностраничника https://artcodecomua.github.io/onepage
 
 <!--
 **artcodecomua/artcodecomua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
