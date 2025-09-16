@@ -3,9 +3,9 @@
 Разработка сайтов, продвижение и реклама в Internet
 https://artcode.com.ua
 
-https://artcodecomua.github.io
+Мультиссылка https://artcodecomua.github.io
 
-Onepage - начальные шаблоны сайта одностраничника https://artcodecomua.github.io/onepage
+Шаблоны сайта одностраничника https://artcodecomua.github.io/onepage
 
 <!--
 **artcodecomua/artcodecomua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
